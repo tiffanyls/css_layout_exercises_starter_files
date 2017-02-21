@@ -23,13 +23,15 @@ nav {
 }
 
 .cat {
-	position: relative;
-	bottom: 300px;
+	position: absolute;
+	top: -100px;
+	left: -150px;
 }
 
 .dog {
 	position: absolute;
-	left: 600px;
+	right: : -100px;
+	bottom: -100px;
 }
 
 #ol {
